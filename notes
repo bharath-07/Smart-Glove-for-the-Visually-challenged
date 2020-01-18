@@ -1,3 +1,20 @@
 python -m pip install pyaudio(helps to install pyaudio for raspberry pi)
 pip install SpeechRecognition-(important for speechrecognition module)
 
+Words tested with the speech API
+
+bottle-
+refrigerator
+sofa
+bag
+**chair,door-not able to correctly convert(shows 4 instead)
+dog
+cat
+
+
+
+Google api -good performance(spe1.py file)
+sphinx-slow and inaccurate(spe3.py file)
+ibm-watson-better performance than sphinx,not as good as google api(spe4.py file)
+
+
