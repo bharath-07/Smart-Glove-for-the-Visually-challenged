@@ -18,3 +18,16 @@ sphinx-slow and inaccurate(spe3.py file)
 ibm-watson-better performance than sphinx,not as good as google api(spe4.py file)
 
 
+                Google api         sphinx            ibm-watson
+bottle           bottle             throttle          bottle
+refirgerator    refrigerator        refree           refrigerator
+sofa             sofa               sopha             super
+bag              bag                bagh             bagh
+chair            chai               chance           chard
+dog              dog                 dog               dog
+door             dor                  -                 4
+
+
+
+
+
